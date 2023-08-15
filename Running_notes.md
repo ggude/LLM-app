@@ -9,4 +9,5 @@ text embedding models:
 
 Ada embeddings performed better than MiniLM. This may be attributable to its higher dimension (1536 vs 384),
 and also ChatGPT, which also likely uses Ada or its close variant, was used to generate target result sentences.
+Github link : https://github.com/neelp-git/embeddings-similarity/blob/main/similarity2.ipynb
 ```
