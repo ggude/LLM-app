@@ -27,4 +27,8 @@ Term Frequency (TF), Inverse Document Frequency (IDF), Document Length,k1 and b 
 
 4.** Semantic search** - it understands meaning of the word . eg. plants, trees etc it extracts any text related to dat query.
 **Text search **- is plain search, ie it byhearts oly dat word, it doesnt know meaning of that word. eg- extracts oly tree not plant related queries. BM25 does text search oly, not semantic search.
+
+GPT 3.5 - max input length it takes = 16 pages =16000 words (approx 1 page = 1000 words)
+Oen AI - 8192 words converts to 1536 embeddings .
+
 ```
